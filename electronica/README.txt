@@ -1,0 +1,1 @@
+En este directorio se encuentran diseños en 3D de componentes electrónicos.
